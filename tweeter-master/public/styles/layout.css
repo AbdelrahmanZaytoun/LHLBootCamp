@@ -21,6 +21,15 @@ body {
   font-family: Bungee, Source Sans Pro, sans-serif;
 }
 
+main {
+ width: 90%;
+ padding: 20px;
+ /* justify-content: center;  */
+ background-color: #f4f1ec;
+ color: #024a5c;
+
+}
+
 /*
  * Additional CSS can be defined below or in other CSS files, as per instructions
  */
