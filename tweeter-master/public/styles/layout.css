@@ -20,14 +20,31 @@ body {
   font-size: 24px;
   font-family: Bungee, Source Sans Pro, sans-serif;
 }
+#title {
+  font-family: 'Bungee';
+};
+
+.container {
+  width: 90%;
+  text-align: center;
+  top: 520px;
+  margin-left: 5%;
+  margin-right: 5%;
+  position: relative;
+ }
 
 main {
  width: 90%;
- padding: 20px;
+ align-content: center;
  /* justify-content: center;  */
  background-color: #f4f1ec;
  color: #024a5c;
 
+}
+
+.words{
+  z-index: 3000;
+  color: black;
 }
 
 /*

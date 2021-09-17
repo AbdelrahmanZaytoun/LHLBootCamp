@@ -1,8 +1,6 @@
-.new-tweet{
-    display: flex;
-    flex-direction: column;
-}
-
-
-
-
+.new-tweet {
+    text-align: center;
+    margin: 20px auto 40px;
+    position: relative;
+    width: 95%;
+  }
